@@ -1,7 +1,7 @@
 {
+  "parser_version": "7f789ea7ef765080f71a298fc96b7c957fa24422",
   "url": "https://github.com/GordianDziwis/tree-sitter-turtle",
   "semver": false,
-  "parser_version": "7f789ea7ef765080f71a298fc96b7c957fa24422",
-  "location": null,
-  "lang": "turtle"
+  "lang": "turtle",
+  "location": null
 }
